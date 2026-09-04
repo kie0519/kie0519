@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.png" width="100%" alt="Junwei Zuo — Between intent and action">
+  <img src="./assets/hero.jpg" width="100%" alt="Junwei Zuo — Between intent and action">
 </div>
 
 <p align="right">
@@ -64,6 +64,7 @@ I remain optimistic about model capability and cautious about system reliability
 <div align="center">
   <sub>QUESTION WHAT YOU WANT · KNOW WHAT IS RIGHT · PROMPT WHAT YOU LEARN · DO WHAT YOU WANT</sub>
 </div>
+
 
 
 
